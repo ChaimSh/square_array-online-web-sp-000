@@ -1,4 +1,4 @@
-require pry
+require binding.pry
 numbers = [1,2,3]
 
 def square_array(numbers)
